@@ -1,0 +1,18 @@
+# Build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+build/
+*.o
+*.obj
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Database directory created at runtime
+kvdb/
+
